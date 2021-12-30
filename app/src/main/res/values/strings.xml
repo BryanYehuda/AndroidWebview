@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Webview</string>
+    <string name="mobile_programming">Mobile Programming</string>
+    <string name="enter">Enter</string>
+    <string name="web_view">Web View</string>
+    <string name="enter_link">Enter Link</string>
+</resources>
