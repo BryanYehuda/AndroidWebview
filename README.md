@@ -1,4 +1,4 @@
-# AndroidWebview
+# Android Webview
 
 ## English
 This repository is useful for storing the code needed to create a Webview that functions to be able to browse the internet directly in the application.
